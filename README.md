@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Proyecto de Autenticación con Next.js 13 y TypeScript - Web responsive
 
-## Getting Started
+Este proyecto utiliza Next.js 13 y TypeScript para implementar funcionalidades de autenticación. Puedes navegar por las siguientes rutas para interactuar con las diferentes funciones de autenticación:
 
-First, run the development server:
+- [Login](http://localhost:3000/auth/login)
+- [Forgot Password](http://localhost:3000/auth/forgot-password)
+- [Register](http://localhost:3000/auth/register)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Requisitos del Proyecto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina antes de comenzar.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Captura de Pantalla
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Web
 
-## Learn More
+[![image.png](https://i.postimg.cc/KYvwfN42/image.png)](https://postimg.cc/21M08n4c)
 
-To learn more about Next.js, take a look at the following resources:
+[![image.png](https://i.postimg.cc/ht42RGn8/image.png)](https://postimg.cc/HVKwQdVj)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[![image.png](https://i.postimg.cc/63xRwHRs/image.png)](https://postimg.cc/VS45WWD4)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Móvil
 
-## Deploy on Vercel
+[![image.png](https://i.postimg.cc/g2VbNspS/image.png)](https://postimg.cc/cvLzJQrw)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[![image.png](https://i.postimg.cc/3J3q3hQB/image.png)](https://postimg.cc/ThH0cZwL)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Register.png](https://i.postimg.cc/Jn1XGpr9/Register.png)](https://postimg.cc/qt5qFXCL)
+
+## Instalación
+
+1. Clona este repositorio:
+  ```git clone <url_del_repositorio>```
+
+2. Accede al directorio del proyecto:
+  ```cd nombre_del_directorio```
+
+3. Instala las dependencias:
+  ```npm install```
+
+4. Inicia la aplicación:
+  ```npm run dev```
